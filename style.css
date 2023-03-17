@@ -1,0 +1,28 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   text-align: center;
+   color: aliceblue;
+
+   
+   
+}
+h1 {border-style: outset;}
+body{
+
+
+    background-color:rgba(3, 0, 0, 0.918);
+    border-color: darkgray;
+
+  
+}
+nav{ 
+    text-align: right;
+    color: dimgrey;
+}
+
+h3{
+    color: darkgray;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
